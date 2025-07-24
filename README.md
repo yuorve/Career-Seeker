@@ -36,6 +36,13 @@ El flujo de trabajo es sencillo pero potente:
 * **Google Drive API:** Para almacenar el CV que se adjunta en el email.
 * **Google Sheets API:** Para el registro de los contactos establecidos.
 
+  
+## Arquitectura del Sistema
+
+El siguiente diagrama ilustra el flujo de datos y la interacción entre los componentes clave de Jarvistron Bot:
+
+![Carrer Seeker](Carrer-Seeker.png)
+
 ## Estado del Proyecto
 
 Actualmente, **Career Seeker** se encuentra en fase de desarrollo. Estoy trabajando para integrar nuevas funcionalidades como puede ser una pasarela para llamadas telefónicas.
